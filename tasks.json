@@ -1,0 +1,16 @@
+[
+    {
+        "id": "76c01c40-de2f-45fd-8e32-8ed4b3c88743",
+        "description": "algo",
+        "status": "todo",
+        "createdAt": "2025-03-03 00:34:22",
+        "updatedAt": "2025-03-03 00:38:25"
+    },
+    {
+        "id": "a5b97906-dec7-477d-85ad-ad6f6451c7b6",
+        "description": "Comprar pan",
+        "status": "todo",
+        "createdAt": "2025-03-03 00:40:50",
+        "updatedAt": "2025-03-03 00:40:50"
+    }
+]

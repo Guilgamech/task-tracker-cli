@@ -63,6 +63,5 @@ python main.py list-not-done
 python main.py list-in-progress
 ```
 
-### Project URL
-
+## Project URL
 -https://github.com/Guilgamech/task-tracker-cli

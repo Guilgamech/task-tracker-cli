@@ -65,4 +65,4 @@ python main.py list-in-progress
 
 ## Project URL
 
-<https://github.com/Guilgamech/task-tracker-cli>
+<https://roadmap.sh/projects/task-tracker>

@@ -1,0 +1,32 @@
+# Ignorar entorno virtual
+venv/
+*.pyc
+*.pyo
+__pycache__/
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Archivos de configuraciones de pruebas
+*.log
+*.pot
+*.py[cod]
+*.cover
+*.tox
+*.nox
+*.coverage
+*.hypothesis/
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de bases de datos
+*.sqlite3
+
+# Archivos de distribución de Python
+*.egg
+*.egg-info
+dist/
+build/

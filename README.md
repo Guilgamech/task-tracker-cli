@@ -64,4 +64,5 @@ python main.py list-in-progress
 ```
 
 ## Project URL
--<https://github.com/Guilgamech/task-tracker-cli>
+
+<https://github.com/Guilgamech/task-tracker-cli>
